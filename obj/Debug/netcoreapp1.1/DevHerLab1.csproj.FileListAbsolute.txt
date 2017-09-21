@@ -1,0 +1,10 @@
+c:\users\lmdew\source\repos\DevHerLab1\DevHerLab1\bin\Debug\netcoreapp1.1\DevHerLab1.deps.json
+c:\users\lmdew\source\repos\DevHerLab1\DevHerLab1\bin\Debug\netcoreapp1.1\DevHerLab1.runtimeconfig.json
+c:\users\lmdew\source\repos\DevHerLab1\DevHerLab1\bin\Debug\netcoreapp1.1\DevHerLab1.runtimeconfig.dev.json
+c:\users\lmdew\source\repos\DevHerLab1\DevHerLab1\obj\Debug\netcoreapp1.1\DevHerLab1.csprojResolveAssemblyReference.cache
+c:\users\lmdew\source\repos\DevHerLab1\DevHerLab1\obj\Debug\netcoreapp1.1\DevHerLab1.csproj.CoreCompileInputs.cache
+c:\users\lmdew\source\repos\DevHerLab1\DevHerLab1\obj\Debug\netcoreapp1.1\DevHerLab1.AssemblyInfo.cs
+c:\users\lmdew\source\repos\DevHerLab1\DevHerLab1\bin\Debug\netcoreapp1.1\DevHerLab1.dll
+c:\users\lmdew\source\repos\DevHerLab1\DevHerLab1\bin\Debug\netcoreapp1.1\DevHerLab1.pdb
+c:\users\lmdew\source\repos\DevHerLab1\DevHerLab1\obj\Debug\netcoreapp1.1\DevHerLab1.dll
+c:\users\lmdew\source\repos\DevHerLab1\DevHerLab1\obj\Debug\netcoreapp1.1\DevHerLab1.pdb
